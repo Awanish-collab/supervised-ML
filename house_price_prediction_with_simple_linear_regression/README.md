@@ -7,7 +7,7 @@ This project demonstrates a **Simple Linear Regression** model to predict house 
 
 ## 📘 Project Structure
 
-```
+
 
 house_price_prediction_with_simple_linear_regression/
 │
@@ -28,7 +28,7 @@ house_price_prediction_with_simple_linear_regression/
 ├── requirements.txt # All required Python packages
 └── README.md # This file
 
-```
+
 ---
 
 ## 🧠 Concept Used
