@@ -1,4 +1,3 @@
-```markdown
 # 🏠 House Price Prediction using Simple Linear Regression
 
 This project demonstrates a **Simple Linear Regression** model to predict house prices based on the house size (in square feet). It uses a synthetic dataset and provides a clean structure for training, evaluating, and making predictions.
@@ -8,7 +7,7 @@ This project demonstrates a **Simple Linear Regression** model to predict house 
 ## 📘 Project Structure
 
 
-
+```markdown
 house_price_prediction_with_simple_linear_regression/
 │
 ├── src/ # All source code and files
