@@ -1,4 +1,3 @@
-```
 # 🏠 House Price Prediction using Multiple Linear Regression
 
 This project demonstrates a **Multiple Linear Regression** model that predicts house prices based on multiple input features like size, location score, and number of bedrooms. It uses a structured Python file organization for clean development and production readiness.
@@ -7,7 +6,7 @@ This project demonstrates a **Multiple Linear Regression** model that predicts h
 
 ## 📁 Project Structure
 
-```
+```markdown
 
 house\_price\_prediction\_with\_multiple\_linear\_regression/
 │
