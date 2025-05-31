@@ -1,8 +1,4 @@
-Sure! Here's the complete `README.md` content for your **Multiple Linear Regression** project, including project structure, setup instructions, usage, and conceptual explanation:
-
----
-
-```markdown
+```
 # 🏠 House Price Prediction using Multiple Linear Regression
 
 This project demonstrates a **Multiple Linear Regression** model that predicts house prices based on multiple input features like size, location score, and number of bedrooms. It uses a structured Python file organization for clean development and production readiness.
