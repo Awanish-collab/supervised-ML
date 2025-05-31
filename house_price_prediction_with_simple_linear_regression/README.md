@@ -28,8 +28,6 @@ house_price_prediction_with_simple_linear_regression/
 ├── requirements.txt # All required Python packages
 └── README.md # This file
 
-````
-
 ---
 
 ## 🧠 Concept Used
@@ -166,11 +164,3 @@ R²   : 0.83
 ## 📌 Next Steps
 
 * Implement **Multiple Linear Regression** (when more features are involved like location, number of rooms, etc).
-* Deploy this model as an API or Web App.
-
----
-
-```
-
-Let me know if you'd like me to also generate this as an actual `README.md` file you can directly place in your project folder.
-```
