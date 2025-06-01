@@ -31,7 +31,21 @@ This repository contains beginner to intermediate-level **supervised machine lea
 
 ---
 
-### 3. 🧪 Coming Soon – Decision Tree Regression
+### 3. ✅ Plynomial Regression – House Price Prediction
+
+- 📂 Folder: `house_price_prediction_with_Polynomial_Rgression`
+- 🔍 Predict house price using **multiple features** like:
+  - Area (sqft)
+  - Location score
+  - Number of bedrooms
+- 📈 Uses `LinearRegression(); PolynomialFeatures(); ColumnTransformer(); StandardScaler()` with multiple independent variables.
+- 💼 Closer to real-world prediction problems.
+
+➡️ [View Plynomial Regression Project](./house_price_prediction_with_Polynomial_Rgression)
+
+---
+
+### 4. 🧪 Coming Soon – Decision Tree Regression
 
 - Will use decision trees to predict house prices.
 - Handles **non-linear** relationships between features.
