@@ -1,4 +1,3 @@
-```
 # 🏠 House Price Prediction using Polynomial Regression
 
 This project demonstrates how to predict house prices using **Polynomial Regression**, with a clean modular design in Python. The model is trained on housing data and uses advanced regression techniques to estimate the property price in Lakh INR.
@@ -27,7 +26,7 @@ However, it can also lead to **overfitting** if used carelessly, especially when
 
 ## 📁 Project Folder Structure
 
-```bash
+```markdown
 house_price_prediction_with_Polynomial_Regression/
 │
 ├── data/
