@@ -166,11 +166,4 @@ Depending on the model:
 
 ## 📬 Author
 
-* **Awanish Kumar**
-
-```
-
----
-
-Would you like me to generate a `requirements.txt` and also the linear regression version of your project for comparison and benchmarking?
-```
+**Awanish Kumar**
